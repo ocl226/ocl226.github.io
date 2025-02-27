@@ -9,3 +9,5 @@ Hi, my name is Olivia Link and I'm a junior studying journalism with a double mi
 This infographic shows what percentage of male and females are in each school here at Lehigh University, as well as where the student demographics call home.
 
 ![Infographic](https://github.com/user-attachments/assets/86732762-2954-4bf9-bff0-34dc9205429c)
+
+![Le-Laf Timeline](https://docs.google.com/spreadsheets/d/1LoXYISzoGf-Fe7LoxUY-nAgpqj1_OVOj146H8CxCuKw/edit?gid=0#gid=0)
