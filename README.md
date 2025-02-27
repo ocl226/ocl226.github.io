@@ -10,4 +10,4 @@ This infographic shows what percentage of male and females are in each school he
 
 ![Infographic](https://github.com/user-attachments/assets/86732762-2954-4bf9-bff0-34dc9205429c)
 
-![Le-Laf Timeline](https://docs.google.com/spreadsheets/d/1LoXYISzoGf-Fe7LoxUY-nAgpqj1_OVOj146H8CxCuKw/edit?gid=0#gid=0)
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1LoXYISzoGf-Fe7LoxUY-nAgpqj1_OVOj146H8CxCuKw&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
