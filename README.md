@@ -17,3 +17,5 @@ This infographic shows what percentage of male and females are in each school he
 ![College Degree Sheet](https://public.tableau.com/app/profile/olivia.link/viz/CollegeDegreeSheet/Story1?publish=yes)
 
 ![Tableau](https://public.tableau.com/views/Weather_17467285344970/Sheet1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+![Chart](<iframe width="800" height="450" src="//embed.chartblocks.com/1.0/?c=681cfa9e3ba0f68756e5e81b&t=a89ceff2f93e72d" frameBorder="0"></iframe>)
