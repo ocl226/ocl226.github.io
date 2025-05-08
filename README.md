@@ -10,8 +10,8 @@ This infographic shows what percentage of male and females are in each school he
 
 ![Infographic](https://github.com/user-attachments/assets/86732762-2954-4bf9-bff0-34dc9205429c)
 
-![Assignment](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1X8vrSDUZkN74OpTdcxovRPUWvmt-YcibLP5bRRuKa1M&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0')
+![[Assignment](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1X8vrSDUZkN74OpTdcxovRPUWvmt-YcibLP5bRRuKa1M&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0')](url)
 
-![Google Map Assignment](<iframe src="https://www.google.com/maps/d/u/0/embed?mid=19-Ez2gdN_B3035-TQFZtPL-a-UOWiOA&ehbc=2E312F" width="640" height="480"></iframe>)
+![Google Map Assignment]([<iframe src="https://www.google.com/maps/d/u/0/embed?mid=19-Ez2gdN_B3035-TQFZtPL-a-UOWiOA&ehbc=2E312F" width="640" height="480"></iframe>](url))
 
 ![College Degree Sheet](https://public.tableau.com/app/profile/olivia.link/viz/CollegeDegreeSheet/Story1?publish=yes)
