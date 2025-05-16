@@ -22,9 +22,9 @@ This dashboard shows a map of US higher institutions based on 2013 IPEDS. It als
 
 ![College Degree Sheet](<https://public.tableau.com/app/profile/olivia.link/viz/CollegeDegreeSheet/Story1?publish=yes>)
 
-This dashboard shows weather patterns with different correlations
+This dashboard shows Spotify data of different platforms, shuffles, and skips of various artists.
 
-![Tableau](<https://public.tableau.com/views/Weather_17467285344970/Sheet1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link>)
+![Spotify Tableau Data]([<https://public.tableau.com/views/Weather_17467285344970/Sheet1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link>](https://public.tableau.com/app/profile/olivia.link/viz/SpotifyData_17474275509880/Story1?publish=yes))
 
 This chart shows another look at weather patterns with more variables added in to find trends with different climates and various temperatures.
 
